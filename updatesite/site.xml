@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.osgi.project.template.feature_1.0.0.201207061310.jar" id="org.osgi.project.template.feature" version="1.0.0.201207061310">
+      <category name="org.osgi.project.template"/>
+   </feature>
+   <category-def name="org.osgi.project.template" label="New OSGi Project">
+      <description>
+         Creates a new maven baded java project for OSGi development.
+By default it provides the implementation for a Hello OSGi Service.
+This can be used as reference for developers to build new OSGi
+Services
+      </description>
+   </category-def>
+</site>
