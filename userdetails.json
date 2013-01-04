@@ -1,0 +1,38 @@
+{
+  "enabled" : true,
+  "username" : "admin",
+  "password" : "{SHA}gf3KgPW/QIbAMO
+  "roles" : null,
+  "authorities" : [ {
+    "authority" : "IM_USER_READ"
+  }, {
+    "authority" : "IM_SEARCH"
+  }, {
+    "authority" : "UPDATE_PASSWORD"
+  }, {
+    "authority" : "KAZAN_ADMIN"
+  }, {
+    "authority" : "CREATE_PROJECT"
+  }, {
+    "authority" : "IM_USER_ADMIN"
+  }, {
+    "authority" : "IM_GROUP_ADMIN"
+  }, {
+    "authority" : "IM_GROUP_READ"
+  }, {
+    "authority" : "IM_ROLE_ADMIN"
+  }, {
+    "authority" : "IM_ROLE_READ"
+  }, {
+    "authority" : "DEPLOY_DEV"
+  }, {
+    "authority" : "DEPLOY_QUALIF"
+  }, {
+    "authority" : "DEPLOY_PREPROD"
+  }, {
+    "authority" : "DEPLOY_PROD"
+  } ],
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}
